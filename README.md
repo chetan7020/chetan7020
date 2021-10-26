@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetan7020
 - 👀 I’m interested in learning new programming language
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning python 
 - 📫 you can reach to me on telegram ChetanPatil-CDP
 
 <!---
