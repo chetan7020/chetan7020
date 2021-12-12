@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetan7020
+- 👋 Hi, I’m Voldemort
 - 👀 I’m interested in learning new programming language
 - 🌱 I’m currently learning python , java
 - 📫 you can reach to me on telegram Tom Riddle
