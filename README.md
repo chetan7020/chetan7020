@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chetan Dagaji Patil
 - 👀 I’m interested in learning new programming language
-- 🌱 I’m currently learning python , java
+- 🌱 I’m currently learning python , java , android
 - 📫 you can reach to me on chetandagajipatil333@gmail.com
 
 <!---
